@@ -1,0 +1,1 @@
+from app.repositories.minio.base_crud import MinioCRUD
